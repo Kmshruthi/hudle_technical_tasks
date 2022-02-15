@@ -1,0 +1,16 @@
+{
+  "video": true,
+  "chromeWebSecurity": false,
+  "ignoreTestFiles": [
+    "*.js",
+    "*.md"
+  ],
+  "numTestsKeptInMemory": 1,
+  "projectId": "baae12",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "test-results/test-output-[hash].xml"
+  },
+  "retries": 0,
+  "env": {}
+}
